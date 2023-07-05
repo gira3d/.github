@@ -14,6 +14,16 @@
 [GIRA3D](https://arxiv.org/pdf/2307.00071.pdf) is an open-source framework for compact, high-resolution point
 cloud modeling using Gaussian mixture models that provides fundamental robotics capabilities, including
 reconstruction, pose estimation, and occupancy modeling.
+
+If you use the components of GIRA3D, please consider citing us:
+```
+@article{goel2023gira,
+  title={GIRA: Gaussian Mixture Models for Inference and Robot Autonomy},
+  author={Goel, Kshitij and Tabib, Wennie},
+  journal={arXiv preprint arXiv:2307.00071},
+  year={2023}
+}
+```
 </div>
 
 <hr />
