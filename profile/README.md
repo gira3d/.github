@@ -28,3 +28,7 @@ The registration repository is available here:
 ## Occupancy Modeling
 The occupancy modeling repository is available here: 
 [gira3d-occupancy-modeling](https://github.com/gira3d/gira3d-occupancy-modeling).
+
+## Map Operations
+The map operations repository is available here: 
+[gira3d-map-ops](https://github.com/gira3d/gira3d-map-ops).
